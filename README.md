@@ -18,3 +18,14 @@ Ik wist nog eigenlijk niets van github ik had niet eens een account
 Waarvan zou ik nog meer willen weten?
 Ik zou nergens iets meer van willen te weten ik ga gewoon de volgende lessen volgen
 
+Maliq Rijven
+
+Wat heb ik geleerd?
+Ik heb geleerd met github om te gaan, en samen werken met andere via github
+
+Wat wist ik al?
+Ik wist nog helemaal niks van github
+
+Waarvan zou ik meer willen weten?
+Over hoe je met heel veel mensen aan git kan zitten.
+
